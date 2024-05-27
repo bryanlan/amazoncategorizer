@@ -1,0 +1,3 @@
+[submodule "multichatplayground"]
+	path = multichatplayground
+	url = https://github.com/bryanlan/multichatplayground
